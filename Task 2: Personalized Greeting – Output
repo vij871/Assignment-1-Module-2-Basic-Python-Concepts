@@ -1,0 +1,21 @@
+Input
+Enter your first name: Vijay
+Enter your last name: Kumar
+
+----
+
+Output
+Hello, Vijay Kumar! Welcome!
+
+----
+
+Empty Input Case :
+
+Input
+Enter your first name:
+Enter your last name: Kumar
+
+----
+
+Output
+Both first name and last name are required.
